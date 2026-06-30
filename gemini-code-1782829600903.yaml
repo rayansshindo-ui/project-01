@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^2.8.6
+  camera: ^0.10.6 # Gère le capteur photo, vidéo et l'aperçu en direct
