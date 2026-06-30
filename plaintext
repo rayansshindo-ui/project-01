@@ -1,0 +1,13 @@
+lib/
+│
+├── models/          # Tes structures de données (User, Post, Message)
+│   └── user_model.dart
+│
+├── services/        # La logique (Connexion Firebase, API de l'IA)
+│   └── ai_service.dart
+│
+├── views/           # Tes écrans (Fil d'actu, Chat, Profil)
+│   ├── feed_screen.dart
+│   └── chat_screen.dart
+│
+└── main.dart        # Le point d'entrée de l'application
